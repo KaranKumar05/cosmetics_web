@@ -138,10 +138,13 @@ footer h4{
         color: rgb(255, 255, 255);
     }
     #brand_name {
-        font-size: 35px;
+        font-size: 75px;
         color: #fff;
         text-align: center;
         border-bottom: 2px solid pink;
+    }
+    .category a{
+        font-size: 26px;
     }
     
 }
